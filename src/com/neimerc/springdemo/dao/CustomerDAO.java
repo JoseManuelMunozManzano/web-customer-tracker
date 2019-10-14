@@ -2,7 +2,7 @@ package com.neimerc.springdemo.dao;
 
 import java.util.List;
 
-import com.neimerc.sprindemo.entity.Customer;
+import com.neimerc.springdemo.entity.Customer;
 
 public interface CustomerDAO {
 

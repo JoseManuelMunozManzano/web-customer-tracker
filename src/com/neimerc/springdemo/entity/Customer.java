@@ -1,4 +1,4 @@
-package com.neimerc.sprindemo.entity;
+package com.neimerc.springdemo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.neimerc.sprindemo.entity.Customer;
 import com.neimerc.springdemo.dao.CustomerDAO;
+import com.neimerc.springdemo.entity.Customer;
 
 @Controller
 @RequestMapping("/customer")
