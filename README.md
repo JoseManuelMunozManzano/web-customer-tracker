@@ -4,10 +4,6 @@ An example in which I show the usage of Spring MVC and Hibernate.
 
 It's a simple web customer tracker in which I do CRUD operations in a mysql Database.
 
-The url is:
-http://localhost:8080/web-customer-tracker/customer/list
-
-
 Necessary Jars are:
 * mysql-connector-java-8.0.12.jar
 * javax.servlet.jsp.jstl-1.2.1.jar
