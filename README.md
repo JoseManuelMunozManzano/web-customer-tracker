@@ -2,7 +2,7 @@
 
 An example in which I show the usage of Spring MVC and Hibernate.
 
-It's a simple web customer tracker in which I do CRUD operations in a mysql Database.
+It's a simple web customer tracker in which I do CRUD operations in a mysql Database with AOP.
 
 Necessary Jars are:
 * mysql-connector-java-8.0.12.jar
@@ -13,6 +13,7 @@ Necessary Jars are:
 * jaxb-impl-2.3.0.jar
 * spring-framework-5.1.9.RELEASE-dist
 * hibernate-release-5.4.6.Final
+* aspectjweaver-1.9.4.jar
 
 
 Note: There is a sql-script folder to create the schema and the table
