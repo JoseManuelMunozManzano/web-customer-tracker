@@ -9,7 +9,7 @@
   <description>Personal project to show Spring and Hibernate in action</description>  
 
 	<properties>
-		<springframework.version>5.2.0.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<hibernate.version>5.4.7.Final</hibernate.version>
 		<mysql.connector.version>8.0.17</mysql.connector.version>
 
